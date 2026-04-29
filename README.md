@@ -1,3 +1,2 @@
 before use : 
-pip install opencv-python
-pip install ultralytics
+pip install opencv-python ultralytics
